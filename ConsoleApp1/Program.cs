@@ -17,6 +17,7 @@ namespace ConsoleApp1
             Console.WriteLine("student id 683450059-3");
             Console.WriteLine("major: computer and Information science");
             Console.WriteLine("faculty: Faculty ");
+            Console.WriteLine("faculty: Is ");
             Console.WriteLine("khon Kaen University");
         }
     }
